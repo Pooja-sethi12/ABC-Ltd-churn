@@ -1,0 +1,6 @@
+# ABC-Ltd-churn
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
